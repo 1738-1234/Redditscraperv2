@@ -1,0 +1,8 @@
+python-telegram-bot==20.7
+praw==7.7.1
+python-dotenv==1.0.0
+pandas==2.1.4
+tabulate==0.9.0
+vaderSentiment==3.3.2
+backoff==2.2.1
+requests==2.31.0 
